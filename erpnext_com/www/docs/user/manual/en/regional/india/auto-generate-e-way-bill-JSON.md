@@ -18,7 +18,7 @@ To help speed up creation of e-Way Bills, you can now auto-generate a JSON file 
 
 1. After entering the required data, submit the Sales Invoice(s).
 
-1. You should now see a button at the top-right corner labelled **Generate e-Way Bill JSON**.
+1. You should now see a button labelled **e-Way Bill JSON** under the **Make** menu at the top-right corner.
 
 	<img class="screenshot" src="/docs/assets/img/regional/india/ewb_invoice_button.png">
 
